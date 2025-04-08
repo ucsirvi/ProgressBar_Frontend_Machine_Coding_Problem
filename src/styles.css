@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.outer {
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 10px 5px;
+}
+
+.inner {
+  background-color: aquamarine;
+  color: brown;
+  transition: 0.8s ease-in;
+  text-align: right;
+}
